@@ -1,0 +1,6 @@
+1) git config --list
+2) git config --global user.name "Rahul"
+3) git config --global user.email "rahul.raut615@gmail.com"
+4) git config user.name        for see user name
+5) git config user.email       for see user email
+6) touch file.txt		for creating file
