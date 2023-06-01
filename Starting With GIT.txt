@@ -12,3 +12,5 @@
 12) git commit -m "Commit Message" 		commit file to repositry
 13) git remote add origin https://github.com/rahulraut615/TestRepo.git			adding origin(repositry) 
 14) git push -u origin master								push files to repositry	
+15) git log
+16)
