@@ -4,3 +4,9 @@
 4) git config user.name        for see user name
 5) git config user.email       for see user email
 6) touch file.txt		for creating file
+7) git status			(not a git repositary)
+8) git init			(for current folder make as git repositary)
+9) git status			-it will show untracked files
+10) git add file.txt		-its make tracked file file.txt
+11) git add .			-its make all file tracked
+12) git commit -m "Commit Message" 		commit file to repositry
