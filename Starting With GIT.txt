@@ -10,3 +10,4 @@
 10) git add file.txt		-its make tracked file file.txt
 11) git add .			-its make all file tracked
 12) git commit -m "Commit Message" 		commit file to repositry
+13) git remote add origin https://github.com/rahulraut615/TestRepo.git			adding origin(repositry) 	
